@@ -5,11 +5,14 @@
 }
 
 body {
-  font-family: Georgia, serif;
+  font-family: Calibri, sans serif;
   background-color: #F5ECD6;
   color: #1C0F06;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, serif;
+}
 
 nav {
   background-color: #1C0F06;
